@@ -1,0 +1,70 @@
+{
+    "JEE-2007-P1": {
+        "Physics": {
+            "Single Correct": {
+                "start": 1,
+                "end": 19
+            },
+            "Multiple Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 20,
+                "end": 22
+            }
+        },
+        "Chemistry": {
+            "Single Correct": {
+                "start": 23,
+                "end": 41
+            },
+            "Multiple Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 42,
+                "end": 44
+            }
+        },
+        "Maths": {
+            "Single Correct": {
+                "start": 45,
+                "end": 63
+            },
+            "Multiple Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 64,
+                "end": 66
+            }
+        }
+    }
+}

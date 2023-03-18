@@ -1,0 +1,2146 @@
+{
+    "JEE-2007-P1": {
+        "1": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/1.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "2": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/2.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "3": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/3.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "4": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/4.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "5": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/5.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "6": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/6.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "7": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/7.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "8": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/8.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "9": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/9.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "10": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/10.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "11": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/11.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "12": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/12.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "13": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/13.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "14": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/14.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "15": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/15.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "16": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/16.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "17": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/17.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "18": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/18.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "19": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/19.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "20": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/20.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "21": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/21.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "22": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/22.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "23": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/23.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "24": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/24.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "25": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/25.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "26": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/26.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "27": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/27.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "28": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/28.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "29": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/29.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "30": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/30.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "31": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/31.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "32": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/32.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "33": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/33.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "34": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/34.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "35": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/35.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "36": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/36.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "37": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/37.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "38": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/38.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "39": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/39.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "40": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/40.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "41": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/41.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "42": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/42.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "43": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/43.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "44": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/44.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "45": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/45.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "46": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/46.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "47": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/47.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "48": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/48.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "49": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/49.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "50": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/50.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "51": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/51.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "52": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/52.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "53": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/53.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "54": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/54.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "55": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/55.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "56": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/56.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "57": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/57.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "58": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/58.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "59": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/59.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "60": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/60.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "61": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/61.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "62": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/62.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "63": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/63.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "64": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/64.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "65": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/65.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "66": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/66.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        }
+    },
+    "JEE-2007-P2": {
+        "1": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/1.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "2": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/2.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "3": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/3.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "4": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/4.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "5": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/5.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "6": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/6.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "7": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/7.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "8": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/8.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "9": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/9.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "10": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/10.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "11": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/11.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "12": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/12.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "13": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/13.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "14": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/14.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "15": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/15.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "16": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/16.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "17": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/17.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "18": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/18.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "19": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/19.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "20": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/20.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "21": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/21.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "22": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/22.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "23": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/23.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "24": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/24.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "25": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/25.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "26": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/26.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "27": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/27.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "28": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/28.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "29": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/29.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "30": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/30.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "31": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/31.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "32": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/32.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "33": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/33.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "34": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/34.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "35": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/35.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "36": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/36.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "37": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/37.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "38": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/38.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "39": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/39.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "40": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/40.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "41": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/41.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "42": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/42.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "43": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/43.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "44": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/44.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "45": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/45.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "46": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/46.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "47": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/47.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "48": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/48.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "49": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/49.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "50": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/50.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "51": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/51.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "52": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/52.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "53": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/53.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "54": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/54.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "55": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/55.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "56": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/56.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "57": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/57.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "58": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/58.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "59": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/59.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "60": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/60.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "61": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/61.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "62": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/62.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "63": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/63.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "64": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/64.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "65": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/65.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "66": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P2/66.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        }
+    },
+    "JEE-2008-P1": {
+        "1": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/1.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "2": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/2.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "3": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/3.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "4": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/4.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "5": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/5.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "6": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/6.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "7": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/7.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "8": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/8.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "9": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/9.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "10": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/10.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "11": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/11.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "12": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/12.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "13": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/13.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "14": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/14.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "15": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/15.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "16": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/16.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "17": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/17.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "18": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/18.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "19": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/19.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "20": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/20.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "21": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/21.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "22": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/22.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "23": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/23.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "24": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/24.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "25": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/25.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "26": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/26.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "27": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/27.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "28": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/28.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "29": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/29.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "30": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/30.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "31": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/31.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "32": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/32.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "33": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/33.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "34": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/34.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "35": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/35.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "36": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/36.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "37": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/37.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "38": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/38.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "39": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/39.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "40": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/40.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "41": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/41.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "42": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/42.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "43": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/43.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "44": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/44.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "45": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/45.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "46": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/46.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "47": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/47.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "48": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/48.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "49": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/49.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "50": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/50.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "51": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/51.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "52": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/52.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "53": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/53.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "54": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/54.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "55": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/55.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "56": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/56.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "57": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/57.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "58": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/58.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "59": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/59.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "60": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/60.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "61": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/61.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "62": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/62.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "63": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/63.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "64": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/64.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "65": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/65.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "66": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/66.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "67": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/67.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "68": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/68.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "69": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P1/69.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        }
+    },
+    "JEE-2008-P2": {
+        "1": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/1.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "2": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/2.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "3": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/3.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "4": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/4.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "5": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/5.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "6": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/6.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "7": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/7.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "8": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/8.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "9": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/9.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "10": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/10.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "11": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/11.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "12": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/12.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "13": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/13.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "14": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/14.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "15": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/15.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "16": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/16.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "17": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/17.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "18": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/18.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "19": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/19.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "20": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/20.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "21": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/21.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "22": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/22.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "23": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/23.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "24": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/24.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "25": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/25.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "26": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/26.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "27": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/27.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "28": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/28.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "29": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/29.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "30": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/30.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "31": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/31.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "32": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/32.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "33": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/33.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "34": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/34.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "35": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/35.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "36": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/36.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "37": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/37.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "38": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/38.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "39": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/39.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "40": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/40.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "41": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/41.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "42": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/42.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "43": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/43.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "44": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/44.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "45": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/45.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "46": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/46.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "47": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/47.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "48": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/48.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "49": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/49.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "50": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/50.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "51": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/51.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "52": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/52.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "53": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/53.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "54": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/54.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "55": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/55.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "56": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/56.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "57": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/57.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "58": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/58.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "59": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/59.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "60": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/60.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "61": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/61.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "62": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/62.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "63": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/63.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "64": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/64.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "65": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/65.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        },
+        "66": {
+            "q": "<img src=\"/JEE_Advanced_Papers/JEE-2008-P2/66.png\">",
+            "ans": "",
+            "o1": "A",
+            "o2": "B",
+            "o3": "C",
+            "o4": "D"
+        }
+    }
+}
