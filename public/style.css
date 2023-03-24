@@ -120,6 +120,10 @@ header {
   height: calc(100vh - 264px);
 }
 .question-title {
+  background: white;
+  position: sticky;
+  z-index: 999;
+  top: 0;
   border-bottom: 1px solid #dbdbdb;
   font-weight: bold;
   padding: 7px;
@@ -434,4 +438,7 @@ label {
   color: green;
   font-family: poppins;
   font-size: 1.2em;
+}
+label > div {
+  display: inline-block;
 }

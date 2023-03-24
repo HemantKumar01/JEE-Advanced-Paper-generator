@@ -1,4 +1,118 @@
 {
+    "Allen": {
+        "1": {
+            "q": "<div style=\"text-align:justify\">Consider three sets E<sub>1</sub> = {1, 3, 4}, F<sub>1 </sub>= {1, 4, 5} and G<sub>1</sub> = {3, 4, 5, 6}. Two elements are chosen at random, without replacement, from the set E<sub>1</sub>, and let S<sub>1</sub> denote the set of these chosen elements.<br>\nLet E<sub>2</sub> = E<sub>1</sub> – S<sub>1</sub> and F<sub>2</sub> = F<sub>1</sub> ∪ S<sub>1</sub>. Now two elements are chosen at random, without replacement, from the set F<sub>2</sub> and let S<sub>2</sub> denote the set of these chosen elements.<br>\nLet G<sub>2</sub> = G<sub>1</sub> ∪ S<sub>2</sub>. Finally, two elements are chosen at random, without replacement, from the set G<sub>2</sub> and let S<sub>3</sub> denote the set of these chosen elements.<br>\nLet E<sub>3</sub> = E<sub>2</sub> ∪ S<sub>3</sub>. Given that E<sub>1</sub> = E<sub>3</sub>, let p be the conditional probability of the event S<sub>1</sub> = {1, 3}. Then the value of p is</div>",
+            "o1": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768870401202463900.png\"></div>",
+            "o2": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16673906691434465793.png\"></div>",
+            "o3": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768870501452101959.png\"></div>",
+            "o4": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16673906781519437244.png\"></div>",
+            "ans": ""
+        },
+        "2": {
+            "q": "<div style=\"text-align:justify\">Let θ<sub>1</sub>, θ<sub>2</sub>, ..., θ<sub>100</sub> be positive valued angles (in radian) such that <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768891422100783595.png\">. Define the complex numbers&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16673916141719708866.png\">&nbsp;and&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16779151661534404850.png\">&nbsp;for k = 2, 3, ..., 100, where <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16673916321008022720.png\">. Consider the statements P and Q given below :<br>\nP : |z<sub>2</sub> – z<sub>1</sub>| + |z<sub>3</sub> – z<sub>2</sub>| + ... + |z<sub>100</sub> – z<sub>99</sub>| + |z<sub>1</sub> – z<sub>100</sub>| <u>&gt;</u> 2<sup>101</sup> – 2<br>\nQ :&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676889388125497706.png\"></div>",
+            "o1": "<div style=\"text-align:justify\">P is <strong>TRUE</strong> and Q is <strong>FALSE</strong></div>",
+            "o2": "<div style=\"text-align:justify\">Q is <strong>TRUE</strong> and P is <strong>FALSE</strong></div>",
+            "o3": "<div style=\"text-align:justify\">both P and Q are <strong>TRUE</strong></div>",
+            "o4": "<div style=\"text-align:justify\">both P and Q are <strong>FALSE</strong></div>",
+            "ans": ""
+        },
+        "3": {
+            "q": "<div style=\"text-align:justify\">For any 3 × 3 matrix M, let |M| denote the determinant of M. Let<br>\n<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676891908393728501.png\">&nbsp;and C = <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768919521295173364.png\">.<br>\nIf D =&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768919901840576661.png\"> is a matrix such that m ≥ 2,&nbsp;then which of the following statements is (are) <strong>CORRECT</strong> ?</div>",
+            "o1": "<div style=\"text-align:justify\">B = CAC and&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768920991361203946.png\"></div> ",
+            "o2": "<div style=\"text-align:justify\">B = CAC and&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768921401455976014.png\"></div> ",
+            "o3": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676892174588971495.png\"></div> ",
+            "o4": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676892232462347857.png\"></div> ",
+            "ans": ""
+        },
+        "4": {
+            "q": "<div style=\"text-align:justify\">Let&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16770435761438952050.png\">&nbsp;be defined by<br>\n<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768924171900044005.png\">.<br>\nThen which of the following options is (are) <strong>TRUE</strong> ?</div>",
+            "o1": "<div style=\"text-align:justify\">f(x) is onto function.</div> ",
+            "o2": "<div style=\"text-align:justify\">If A =&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676892665234526074.png\"> then the set A ∩ N&nbsp;has at least 3 elements. (N is set of natural numbers)</div> ",
+            "o3": "<div style=\"text-align:justify\">If B =&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768926231712622794.png\">&nbsp;then |B| ≥ 2.</div> ",
+            "o4": "<div style=\"text-align:justify\">f(x) is decreasing in the interval (–∞, –1]</div> ",
+            "ans": ""
+        },
+        "5": {
+            "q": "<div style=\"text-align:justify\">Let E,F and G be three events having probabilities<br>\n<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768934621444167143.png\">&nbsp;and <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16674531242032264071.png\">, and let <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16674531331273574649.png\">.<br>\nFor any event H, if H<sup>C</sup> denotes its complement, then which of the following statements is(are) <strong>TRUE</strong> ?</div>",
+            "o1": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768934861735671086.png\"></div> ",
+            "o2": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676893504824856626.png\"></div> ",
+            "o3": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16674531581372785870.png\"></div> ",
+            "o4": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676893579120792789.png\"></div> ",
+            "ans": ""
+        },
+        "6": {
+            "q": "<div style=\"text-align:justify\">For any 3 × 3 matrix M, let <strong>|</strong>M<strong>|</strong> denote the determinant. Let I be the 3 × 3 identity matrix. Let A, B and C be three 3 × 3 matrices such that (I + ABC) is invertible. If D = (ABC + I)<sup>–1</sup>, then which of the following statements is (are) <strong>TRUE</strong> ?</div>",
+            "o1": "<div style=\"text-align:justify\">(ABCD)<sup>T</sup> = C<sup>T</sup>B<sup>T</sup>A<sup>T</sup>D<sup>T</sup></div> ",
+            "o2": "<div style=\"text-align:justify\">|ABC| = |I + ABC| |ADBC|</div> ",
+            "o3": "<div style=\"text-align:justify\">(I + CAB) (I + CDAB) = I</div> ",
+            "o4": "<div style=\"text-align:justify\">(I + CAB) (I – CDAB) = I</div> ",
+            "ans": ""
+        },
+        "7": {
+            "q": "<div style=\"text-align:justify\">For any positive integer n, define f<sub>n</sub> : (0, ∞)&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1667454461803617077phpjZKz4Mimage.png\" style=\"height:16px; width:36px\">&nbsp;as<br>\n<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768944551548864021.png\"><br>\nfor any x ∈ (0, ∞),&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16674545601384490075.png\">. Which of the following statement(s) is (are)<strong> TRUE </strong>?</div>",
+            "o1": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768945441500525951.png\"></div> ",
+            "o2": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768959092008160480.png\"></div> ",
+            "o3": "<div style=\"text-align:justify\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16779152661423186588.png\">&nbsp;has exactly one solution in (0,∞)</div>\n\n<div>&nbsp;</div> ",
+            "o4": "<div style=\"text-align:justify\">tan(f<sub>n</sub>(x)) &gt; sinx, for all n ≥ 1 and x &gt; 0</div> ",
+            "ans": ""
+        },
+        "8": {
+            "q": "<div style=\"text-align:justify\">For any complex number w = c + id, let <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1667456659427254133.png\">, where <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1667456666445602703.png\">. If a&nbsp;complex numbers z = x + iy satisfies&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768961982054063073.png\">, then (x, y) lies on the circle x<sup>2</sup> + y<sup>2</sup> – 2x + 2y – 8 = 0. Assume α &amp; β are real numbers. Then which of the following statements is (are) <strong>TRUE</strong> ?</div>",
+            "o1": "<div style=\"text-align:justify\">αβ = 8</div> ",
+            "o2": "<div style=\"text-align:justify\">αβ = –4</div> ",
+            "o3": "<div style=\"text-align:justify\">set of pairs of (α, β) is {(–2, 2), (–2, –4), (4, 2), (4,&nbsp;–4)}</div> ",
+            "o4": "<div style=\"text-align:justify\">(α, β) ∈ {(–2, 2), (–2,&nbsp;–4), (4, 2), (4,&nbsp;–4)}</div> ",
+            "ans": ""
+        },
+        "9": {
+            "q": "<div style=\"text-align:justify\">The value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768917001680853059.png\">&nbsp;is _____</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "10": {
+            "q": "<div style=\"text-align:justify\">The value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768914241180001665.png\">&nbsp;is ______</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "11": {
+            "q": "<div style=\"text-align:justify\">The value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676891615368176798.png\">&nbsp;is ______</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "12": {
+            "q": "<div style=\"text-align:justify\">The absolute value of |M| is ______</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "13": {
+            "q": "<div style=\"text-align:justify\">The value of λ<sup>2</sup> is __________.</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "14": {
+            "q": "<div style=\"text-align:justify\">The value of <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768909641035762887.png\"> is __________.</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        }
+    },
     "JEE-2007-P1": {
         "1": {
             "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/1.png\">",

@@ -9,7 +9,7 @@ var quesContainers = null;
 var quesContainer = null;
 var interval = null;
 var numQues = 0;
-var totalTime = 3 * 60 * 60; //3hr
+var totalTime = 3 * 60 * 60; //in sec (=> it's 3hr)
 var remainingTime = 0;
 var isDq = false;
 var socket;

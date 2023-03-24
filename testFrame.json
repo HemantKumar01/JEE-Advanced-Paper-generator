@@ -1,4 +1,28 @@
 {
+    "Testing": {
+        "Maths": {
+            "Single Correct": {
+                "start": 1,
+                "end": 2
+            },
+            "Multiple Correct": {
+                "start": 3,
+                "end": 8
+            },
+            "Numeric": {
+                "start": 9,
+                "end": 14
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        }
+    },
     "JEE-2007-P1": {
         "Physics": {
             "Single Correct": {
