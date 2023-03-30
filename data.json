@@ -1,862 +1,40 @@
 {
-    "dq": {
-        "config": {
-            "testName": "JEE-2007-P1"
-        },
-        "Physics Section 1": [
-            "Single Correct",
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/1.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 363
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/2.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 152
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/3.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 174
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/4.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 103
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/5.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 99
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/6.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 180
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/7.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 124
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/8.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 410
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/9.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [],
-                "timeTaken": 476
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/10.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 116
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/11.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 62
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/12.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 35
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/13.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 95
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/14.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [],
-                "timeTaken": 171
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/15.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [],
-                "timeTaken": 47
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/16.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [],
-                "timeTaken": 7
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/17.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": []
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/18.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [],
-                "timeTaken": 3
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/19.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [],
-                "timeTaken": 24
-            }
-        ],
-        "Physics Section 2": [
-            "Matrix Match",
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/20.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "q",
-                    "r",
-                    "r",
-                    "r"
-                ],
-                "timeTaken": 136
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/21.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "q",
-                    "qrs",
-                    "pqrs",
-                    "pqr"
-                ],
-                "timeTaken": 402
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/22.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "pr",
-                    "qs",
-                    "p",
-                    "q"
-                ],
-                "timeTaken": 144
-            }
-        ],
-        "Chemistry Section 1": [
-            "Single Correct",
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/23.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 272
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/24.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 33
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/25.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 74
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/26.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 24
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/27.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 21
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/28.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 113
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/29.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 26
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/30.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 148
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/31.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 172
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/32.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 184
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/33.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 36
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/34.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 84
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/35.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 93
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/36.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 43
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/37.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 67
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/38.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 46
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/39.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 165
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/40.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 113
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/41.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 102
-            }
-        ],
-        "Chemistry Section 2": [
-            "Matrix Match",
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/42.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "pqs",
-                    "pqs",
-                    "qs",
-                    "qs"
-                ],
-                "timeTaken": 242
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/43.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "ps",
-                    "qr",
-                    "pr",
-                    "s"
-                ],
-                "timeTaken": 127
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/44.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "ps",
-                    "qr",
-                    "p",
-                    "qr"
-                ],
-                "timeTaken": 185
-            }
-        ],
-        "Maths Section 1": [
-            "Single Correct",
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/45.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 38
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/46.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 454
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/47.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [],
-                "timeTaken": 154
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/48.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 125
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/49.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 178
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/50.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 87
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/51.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 363
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/52.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 220
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/53.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 232
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/54.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 145
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/55.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "A"
-                ],
-                "timeTaken": 195
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/56.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 93
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/57.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 119
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/58.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 170
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/59.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "D"
-                ],
-                "timeTaken": 341
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/60.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 184
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/61.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "C"
-                ],
-                "timeTaken": 337
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/62.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "B"
-                ],
-                "timeTaken": 506
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/63.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [],
-                "timeTaken": 244
-            }
-        ],
-        "Maths Section 2": [
-            "Matrix Match",
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/64.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "r",
-                    "q",
-                    "p",
-                    "s"
-                ],
-                "timeTaken": 335
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/65.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "pq",
-                    "ps",
-                    "rs",
-                    "pq"
-                ],
-                "timeTaken": 260
-            },
-            {
-                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2007-P1/66.png\">",
-                "ans": "...",
-                "o1": "A",
-                "o2": "B",
-                "o3": "C",
-                "o4": "D",
-                "selectedOptions": [
-                    "s",
-                    "s",
-                    "p",
-                    "r"
-                ],
-                "timeTaken": 296
-            }
-        ]
-    },
+    "dq": {},
     "Allen": {
         "1": {
-            "q": "<div>Three numbers are chosen at random&nbsp;one after another with replacement, from the set S = {1, 2, 3, ..., 100}. Let P<sub>1</sub> be the probability that the minimum of chosen numbers is at most 60 and P<sub>2</sub> be the probability that the maximum of chosen numbers is at least 41 and at most 80.</div><br><hr><div style=\"text-align:justify\">The value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768917001680853059.png\">&nbsp;is _____</div> <br>\n       ",
-            "o1": "",
-            "o2": "",
-            "o3": "",
-            "o4": "",
+            "q": "<div style=\"text-align:justify\">Four non coplanar&nbsp;unit vectors are equally inclined to each other at an angle&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742944041585433057.png\">&nbsp;such that their resultant is 0 . If&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16788560391231477462.png\">&nbsp;(Where a and b are co prime)&nbsp;then (a<sup>2</sup>&nbsp;+ b<sup>2</sup>) is :</div>",
+            "o1": "<div style=\"text-align:justify\">34</div>",
+            "o2": "<div style=\"text-align:justify\">17</div>",
+            "o3": "<div style=\"text-align:justify\">13</div>",
+            "o4": "<div style=\"text-align:justify\">26</div>",
             "ans": ""
         },
         "2": {
-            "q": "<div>Three numbers are chosen at random&nbsp;one after another with replacement, from the set S = {1, 2, 3, ..., 100}. Let P<sub>1</sub> be the probability that the minimum of chosen numbers is at most 60 and P<sub>2</sub> be the probability that the maximum of chosen numbers is at least 41 and at most 80.</div><br><hr><div style=\"text-align:justify\">The value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768914241180001665.png\">&nbsp;is ______</div> <br>\n       ",
-            "o1": "",
-            "o2": "",
-            "o3": "",
-            "o4": "",
+            "q": "<div style=\"text-align:justify\">Ashok has a bag containing 40 cards numbered with the integers from 1 to 40. No two cards&nbsp;are numbered with same integer. Likewise, his sister shilpa has another bag containing only five cards that are numbered with the integers from 1 to 5, with no integer repeating. Their mother, Lata, randomly draws one card each from Ashok's and shilpa’s bags and note down their respective numbers,&nbsp;and lata divides the number obtained from Ashok's bag by the number obtained from Shilpa’s.&nbsp;The probability that the remainder will not be greater than 2 is</div>",
+            "o1": "<div style=\"text-align:justify\">0.73</div>",
+            "o2": "<div style=\"text-align:justify\">0.91</div>",
+            "o3": "<div style=\"text-align:justify\">0.94</div>",
+            "o4": "<div style=\"text-align:justify\">0.87</div>",
             "ans": ""
         },
         "3": {
-            "q": "<div>Let a, b and c are real numbers such that the system of linear equations<br>\nx + y + z = a<br>\nx + 5y – z = b<br>\nx&nbsp;– y + 2z = c + 2 is consistent.<br>\nLet |M| represent the determinant of the matrix M =&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768915381669147310.png\">. Let 'P' be the plane containing all those (a, b, c) for which above system of linear equations is consistent and 'D' be the square of distance of the point (1, 1, 1) from the plane 'P'.</div><br><hr><div style=\"text-align:justify\">The value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676891615368176798.png\">&nbsp;is ______</div> <br>\n       ",
-            "o1": "",
-            "o2": "",
-            "o3": "",
-            "o4": "",
+            "q": "<div style=\"text-align:justify\">Let P(x)&nbsp; be&nbsp;fourth degree polynomial with leading coefficient unity and all&nbsp; other coefficients are integers such that sum of the pairs of roots of&nbsp;P(x) = 0&nbsp;are 1,2,5,6,9 and 10 then absolute value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674215769966572434.png\"> is</div>",
+            "o1": "<div style=\"text-align:justify\">13</div>",
+            "o2": "<div style=\"text-align:justify\">8</div>",
+            "o3": "<div style=\"text-align:justify\">9</div>",
+            "o4": "<div style=\"text-align:justify\">18</div>",
             "ans": ""
         },
         "4": {
-            "q": "<div>Let a, b and c are real numbers such that the system of linear equations<br>\nx + y + z = a<br>\nx + 5y – z = b<br>\nx&nbsp;– y + 2z = c + 2 is consistent.<br>\nLet |M| represent the determinant of the matrix M =&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768915381669147310.png\">. Let 'P' be the plane containing all those (a, b, c) for which above system of linear equations is consistent and 'D' be the square of distance of the point (1, 1, 1) from the plane 'P'.</div><br><hr><div style=\"text-align:justify\">The absolute value of |M| is ______</div> <br>\n       ",
-            "o1": "",
-            "o2": "",
-            "o3": "",
-            "o4": "",
+            "q": "<div style=\"text-align:justify\">Write the value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1655970082858814165.png\"></div>",
+            "o1": "<div style=\"text-align:justify\">10</div>",
+            "o2": "<div style=\"text-align:justify\">50</div>",
+            "o3": "<div style=\"text-align:justify\">90</div>",
+            "o4": "<div style=\"text-align:justify\">100</div>",
             "ans": ""
         },
         "5": {
-            "q": "<div>Consider the lines L<sub>1</sub> and L<sub>2</sub> defined by<br>\n<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/166745161129247930.png\">&nbsp;and <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16674516181480831173.png\"><br>\nFor a fixed constant λ, let C be the locus of a point P such that the product of the distance of P from L<sub>1</sub> and the distance of P from L<sub>2</sub> is λ<sup>2</sup>. The line y = 2x + 1 meets C at two points R and S, where the distance between R and S is <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676890686418715860.png\">.<br>\nLet the perpendicular bisector of RS meet C at two distinct points R' and S'. Let D be the <strong>square</strong> of the distance between R' and S'.</div><br><hr><div style=\"text-align:justify\">The value of λ<sup>2</sup> is __________.</div> <br>\n       ",
+            "q": "<div style=\"text-align:justify\">If <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674294682787604963.png\">.&nbsp;<span style=\"font-size:12.0pt\">Then value of&nbsp;</span><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674209600406470962.png\">&nbsp;is</div>",
             "o1": "",
             "o2": "",
             "o3": "",
@@ -864,7 +42,119 @@
             "ans": ""
         },
         "6": {
-            "q": "<div>Consider the lines L<sub>1</sub> and L<sub>2</sub> defined by<br>\n<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/166745161129247930.png\">&nbsp;and <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16674516181480831173.png\"><br>\nFor a fixed constant λ, let C be the locus of a point P such that the product of the distance of P from L<sub>1</sub> and the distance of P from L<sub>2</sub> is λ<sup>2</sup>. The line y = 2x + 1 meets C at two points R and S, where the distance between R and S is <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1676890686418715860.png\">.<br>\nLet the perpendicular bisector of RS meet C at two distinct points R' and S'. Let D be the <strong>square</strong> of the distance between R' and S'.</div><br><hr><div style=\"text-align:justify\">The value of <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16768909641035762887.png\"> is __________.</div> <br>\n       ",
+            "q": "<div style=\"text-align:justify\">In a class of 5 students&nbsp;average weight of 4 lightest&nbsp;students is 40 kgs, Average weight of 4 heaviest students is 45 kgs. The difference between maximum and minimum possible average weight overall (in kg) is</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "7": {
+            "q": "<div style=\"text-align:justify\">The maximum value of expression&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742097911128780426.png\"> if <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/167420981270833083.png\"> for&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674209832884338322.png\"> is</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "8": {
+            "q": "<div style=\"text-align:justify\">For&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742160511867207818.png\">&nbsp;&nbsp;Number of ordered pair/s&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742101151665611261.png\"> satisfying equation&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674216103747939308.png\"> and&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742101422135031456.png\">&nbsp;&nbsp;is / are</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "9": {
+            "q": "<div style=\"text-align:justify\">The area of the curve enclosed by the curves&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742102881011226364.png\"> and&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674210299152412637.png\"> is&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742103111307558521.png\"> . The value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674210326806628505.png\">&nbsp;is</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "10": {
+            "q": "<div style=\"text-align:justify\">Let&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742104241760985073.png\"> is a derivable function <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742104401170598923.png\">&nbsp;=&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674216167533760575.png\">, <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674216191898418036.png\">. Then Range of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1678856300212222722.png\">&nbsp; <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16788563941378759179.png\">&nbsp;is</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "11": {
+            "q": "<div style=\"text-align:justify\">If coefficient of t<sup>8</sup> in the expansion of (2 + 9t<sup>3&nbsp;</sup>+ 6t<sup>4&nbsp;</sup>+ t<sup>5</sup>)<sup>10</sup> is 5<sup>a</sup>2<sup>b</sup>3<sup>c</sup>&nbsp;(a, b, c&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742110682069401069.png\"> N),&nbsp;then&nbsp;value of a + b + c is</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "12": {
+            "q": "<div style=\"text-align:justify\">A&nbsp; B&nbsp;&nbsp; C<br>\n&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; D<br>\n&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; E&nbsp;&nbsp; F&nbsp;&nbsp; G<br>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br>\n&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I<br>\n(i)&nbsp;&nbsp; &nbsp;Each of the digits 1, 2, 3, 4, 6, 7, 8 and 9 is represented by a different letter in figure above.<br>\n(ii)&nbsp;&nbsp; &nbsp;Positioned in the figure above so that each of A + B + C, C + D + E, E + F + G and G + H + I is&nbsp; equal to 13. The value of E is</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "13": {
+            "q": "<div style=\"text-align:justify\">If z<sup>2</sup> + z + 1 = 0, where z is complex number then the value of&nbsp;<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16560572581452536624.png\"></div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "14": {
+            "q": "<div style=\"text-align:justify\">A sample of 20 observations has mean of 50 and variance of 1, while a sample of 40 observations has mean of 50 and standard deviation 2. the 2 samples are combined to give complete set of 60 observations with variance σ<sup>2</sup>, then 3σ<sup>2</sup> is equal to :-</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "15": {
+            "q": "<div style=\"text-align:justify\">Two gram of <sub>1</sub>H<sup>1</sup> is used in a reaction :<br>\n<img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742932331041371327.png\"><br>\nAtomic masses &nbsp;&nbsp; &nbsp;m(Li<sup>7</sup>) = 7.018 u<br>\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m(<sub>1</sub>H<sup>1</sup>) = 1.008 u<br>\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m(<sub>2</sub>He<sup>4</sup>) = 4.004 u<br>\nThe energy released in this process is&nbsp;α × 10<sup>12</sup> Joules, then find value of α (In nearest integer). (1 amu = 1.67 × 10<sup>–27</sup> kg)</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "16": {
+            "q": "<div style=\"text-align:justify\">Initially capacitors were uncharged. At t = 0 switch S is closed. If the potential difference between point A and B (V<sub>A</sub> – V<sub>B</sub>) is n volt at steady state, then find n.</div>\n\n<div style=\"text-align:center\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16764609541837976372phpfvW9USimage.png\" style=\"height:146px; width:250px\"></div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "17": {
+            "q": "<div style=\"text-align:justify\">A bar magnet of magnetic moment 1600 A–m<sup>2</sup> oscillate in magnetometer. The moment of inertia about axis of rotation for magnet is 12 × 10<sup>–5</sup> kg–m<sup>2</sup>. If horizontal component of earth magnetic field is 30 μT, then it's time period is <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/16742937411892081106.png\">&nbsp;sec. Find n.</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "18": {
+            "q": "<div style=\"text-align:justify\">Consider a transistor amplifier&nbsp;in CE mode for which current gain β = 50. Input and output resistance for this is 500Ω and 2000Ω respectively. Input current is changed by 50 μA. The power gain of amplifier&nbsp;is 10<sup>n</sup>, then find n.</div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "19": {
+            "q": "<div style=\"text-align:justify\">In the diagram, screen is very closed to plane mirror. Interference take place between light directly coming from source and reflected one. The minimum distance of maxima from point P on screen is <img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/167429435040482490.png\">, then find n.</div>\n\n<div style=\"text-align:center\"><img src=\"https://d2lbh14zkcqlst.cloudfront.net/content_data/content_images/1674294374531981203phprSncppimage.png\" style=\"width:200px\"></div>",
+            "o1": "",
+            "o2": "",
+            "o3": "",
+            "o4": "",
+            "ans": ""
+        },
+        "20": {
+            "q": "<div style=\"text-align:justify\">A refrigerator converts 2kg of water at 30°C into ice at –10°C in 20 min. Then effective power (in watt) of refrigerator is : (Specific heat of ice and water 0.5 and 1 in CGS and latent heat of fusion of ice is 80&nbsp;cal/gram.) [J = 4.2 J/cal]</div>",
             "o1": "",
             "o2": "",
             "o3": "",
