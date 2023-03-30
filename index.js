@@ -12,11 +12,20 @@ var done = JSON.parse(fs.readFileSync("./stats/done.json", "utf8"));
 
 var topics = Object.keys(data);
 var test = {};
-var paperNo = prompt("JEE-<JEEAdv-Year>-<P1|P2>:"); //change 2min/ques from script.js
+var paperNo = prompt("JEE-<JEEAdv-Year>-<P1|P2> or dq:"); //change 2min/ques from script.js
+
+var isDq = false;
+if (paperNo == "dq") {
+  paperNo = data["dq"].config.testName;
+  isDq = true;
+}
+
 var testFrame = JSON.parse(fs.readFileSync("./testFrame.json", "utf8"))[
   paperNo
 ];
-
+if (data[paperNo].config) {
+  delete data[paperNo].config;
+}
 app.get("/", (req, res) => {
   res.sendFile("index.html", { root: "./public" });
 });
@@ -43,41 +52,15 @@ const serverInstance = app.listen(port, () => {
 const io = new socket.Server(serverInstance);
 
 io.on("connection", (socket) => {
-  socket.on("result", (testStats) => {
-    testStats = JSON.parse(testStats);
-    attemptedQues = testStats.attemptedQues; //{quesNum:timeTaken}
+  socket.on("result", (testSubmitData) => {
+    testSubmitData = JSON.parse(testSubmitData);
 
-    console.log(
-      "Test submitted successfully. You have tried following question numbers",
-      Object.keys(attemptedQues)
-    );
-    var sessionData = JSON.parse(
-      fs.readFileSync("./stats/sessionData.json", "utf8")
-    );
-    sessionData["records"].push(testStats.sessionData);
-    fs.writeFile(
-      "./stats/sessionData.json",
-      JSON.stringify(sessionData),
-      function (err) {
-        if (err) {
-          console.log(err);
-        }
-      }
-    );
+    console.log("Test submitted successfully. Saved for DQ");
 
-    var done = JSON.parse(fs.readFileSync("./stats/done.json", "utf8"));
-    for (var quesNum of Object.keys(attemptedQues)) {
-      var topic = testFrame["Maths"][quesNum].topic;
-      if (!done[topic]) {
-        done[topic] = {};
-      }
-      done[topic][testFrame["Maths"][quesNum].index] = {
-        timeTaken: (attemptedQues[quesNum].timeTaken / 60).toFixed(2),
-        submissionTime: Date.now(),
-        selectedOption: attemptedQues[quesNum].selectedOption,
-      };
-    }
-    fs.writeFile("./stats/done.json", JSON.stringify(done), function (err) {
+    data = JSON.parse(fs.readFileSync("./data.json", "utf8"));
+    testSubmitData.config = { testName: paperNo };
+    data["dq"] = testSubmitData;
+    fs.writeFile("./data.json", JSON.stringify(data), function (err) {
       if (err) {
         console.log(err);
       }
@@ -92,22 +75,32 @@ function createPaper() {
     for (var subTopic of Object.keys(testFrame[subject])) {
       if (testFrame[subject][subTopic].start != 0) {
         section++;
-        for (
-          qno = testFrame[subject][subTopic].start;
-          qno <= testFrame[subject][subTopic].end;
-          qno++
-        ) {
-          if (!test[`${subject} Section ${section}`]) {
-            test[`${subject} Section ${section}`] = [subTopic]; //1st index is the subtopic of section (type of section)
+        if (isDq) {
+          test[`${subject} Section ${section}`] =
+            data["dq"][`${subject} Section ${section}`];
+        } else {
+          for (
+            qno = testFrame[subject][subTopic].start;
+            qno <= testFrame[subject][subTopic].end;
+            qno++
+          ) {
+            if (!test[`${subject} Section ${section}`]) {
+              test[`${subject} Section ${section}`] = [subTopic]; //1st index is the subtopic of section (type of section)
+            }
+            test[`${subject} Section ${section}`].push(data[paperNo][qno]);
           }
-          test[`${subject} Section ${section}`].push(data[paperNo][qno]);
         }
       }
     }
   }
-  fs.writeFile("./public/testData.json", JSON.stringify(test), function (err) {
-    if (err) {
-      console.log(err);
+  var testData = { config: { isDq: isDq }, topics: test };
+  fs.writeFile(
+    "./public/testData.json",
+    JSON.stringify(testData),
+    function (err) {
+      if (err) {
+        console.log(err);
+      }
     }
-  });
+  );
 }

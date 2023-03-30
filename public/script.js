@@ -9,7 +9,8 @@ var quesContainers = null;
 var quesContainer = null;
 var interval = null;
 var numQues = 0;
-var totalTime = 3 * 60 * 60; //in sec (=> it's 3hr)
+// var totalTime = 3 * 60 * 60; //in sec (=> it's 3hr)
+var totalTime = 180 * 60;
 var remainingTime = 0;
 var isDq = false;
 var socket;
@@ -24,7 +25,8 @@ async function init() {
   //   //TODO: change in future to make it better (suppose i have more topics);
   //   isDq = true;
   // }
-  isDq = false;
+  isDq = !!data.config.isDq; //false if data.isDq undefined;
+  data = data.topics;
   if (!isDq) {
     socket = io();
   }
@@ -36,6 +38,8 @@ async function init() {
   getTopics();
   if (!isDq) {
     runTimer();
+  } else {
+    document.querySelector("#submit").click();
   }
 }
 window.onload = init;
@@ -100,7 +104,11 @@ async function loadTopic(top) {
 function showResults() {
   // gather answer containers from our quiz
   clearInterval(interval);
+  if (!isDq) {
+    socket.emit("result", JSON.stringify(data));
+  }
   isDq = true;
+
   var firstTopic = Object.keys(data)[0];
   console.log(firstTopic);
   loadTopic(firstTopic);
