@@ -2,16 +2,16 @@
     "Allen2": {
         "Maths": {
             "Single Correct": {
-                "start": 1,
-                "end": 4
+                "start": 21,
+                "end": 22
             },
             "Multiple Correct": {
-                "start": 0,
-                "end": 0
+                "start": 15,
+                "end": 20
             },
             "Numeric": {
-                "start": 5,
-                "end": 14
+                "start": 0,
+                "end": 0
             },
             "Integer": {
                 "start": 0,
@@ -32,8 +32,8 @@
                 "end": 0
             },
             "Numeric": {
-                "start": 15,
-                "end": 20
+                "start": 1,
+                "end": 6
             },
             "Integer": {
                 "start": 0,
@@ -46,16 +46,16 @@
         },
         "Chemistry": {
             "Single Correct": {
-                "start": 21,
-                "end": 23
+                "start": 0,
+                "end": 0
             },
             "Multiple Correct": {
                 "start": 0,
                 "end": 0
             },
             "Numeric": {
-                "start": 24,
-                "end": 31
+                "start": 7,
+                "end": 14
             },
             "Integer": {
                 "start": 0,
