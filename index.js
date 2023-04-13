@@ -44,6 +44,7 @@ const serverInstance = app.listen(port, () => {
   test = {};
   done = JSON.parse(fs.readFileSync("./stats/done.json", "utf8"));
   createPaper();
+
   console.log(testFrame);
 
   console.log(`app listening on port ${port}`);
@@ -90,6 +91,9 @@ function createPaper() {
             test[`${subject} Section ${section}`].push(data[paperNo][qno]);
           }
         }
+      } else {
+        //formatting for displaying on console
+        delete testFrame[subject][subTopic];
       }
     }
   }
