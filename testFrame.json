@@ -338,5 +338,141 @@
                 "end": 0
             }
         }
+    },
+    "JEE-2013-P1": {
+        "Physics": {
+            "Single Correct": {
+                "start": 1,
+                "end": 10
+            },
+            "Multiple Correct": {
+                "start": 11,
+                "end": 15
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 16,
+                "end": 20
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Chemistry": {
+            "Single Correct": {
+                "start": 21,
+                "end": 30
+            },
+            "Multiple Correct": {
+                "start": 31,
+                "end": 35
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 36,
+                "end": 40
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Maths": {
+            "Single Correct": {
+                "start": 41,
+                "end": 50
+            },
+            "Multiple Correct": {
+                "start": 51,
+                "end": 55
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 56,
+                "end": 60
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        }
+    },
+    "JEE-2013-P2": {
+        "Physics": {
+            "Single Correct": {
+                "start": 9,
+                "end": 16
+            },
+            "Multiple Correct": {
+                "start": 1,
+                "end": 8
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 17,
+                "end": 20
+            }
+        },
+        "Chemistry": {
+            "Single Correct": {
+                "start": 29,
+                "end": 36
+            },
+            "Multiple Correct": {
+                "start": 21,
+                "end": 28
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 37,
+                "end": 40
+            }
+        },
+        "Maths": {
+            "Single Correct": {
+                "start": 49,
+                "end": 56
+            },
+            "Multiple Correct": {
+                "start": 41,
+                "end": 48
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 57,
+                "end": 60
+            }
+        }
     }
 }

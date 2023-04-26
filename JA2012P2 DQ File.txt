@@ -1,0 +1,745 @@
+{
+        "Physics Section 1": [
+            "Single Correct",
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/1.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 70
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/2.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "D"
+                ],
+                "timeTaken": 148
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/3.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A"
+                ],
+                "timeTaken": 205
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/4.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 104
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/5.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 279
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/6.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 275
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/7.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 282
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/8.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A"
+                ],
+                "timeTaken": 256
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/9.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 120
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/10.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 33
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/11.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 145
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/12.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "D"
+                ],
+                "timeTaken": 131
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/13.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [],
+                "timeTaken": 16
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/14.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [],
+                "timeTaken": 7
+            }
+        ],
+        "Physics Section 2": [
+            "Multiple Correct",
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/15.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "C",
+                    "C"
+                ],
+                "timeTaken": 359
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/16.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "D"
+                ],
+                "timeTaken": 105
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/17.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "timeTaken": 143
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/18.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C",
+                    "D"
+                ],
+                "timeTaken": 175
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/19.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 318
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/20.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "B"
+                ],
+                "timeTaken": 225
+            }
+        ],
+        "Chemistry Section 1": [
+            "Single Correct",
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/21.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 111
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/22.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 35
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/23.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 107
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/24.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "D"
+                ],
+                "timeTaken": 76
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/25.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A"
+                ],
+                "timeTaken": 443
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/26.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 96
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/27.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "D"
+                ],
+                "timeTaken": 295
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/28.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 79
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/29.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A"
+                ],
+                "timeTaken": 83
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/30.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [],
+                "timeTaken": 80
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/31.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 360
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/32.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [],
+                "timeTaken": 128
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/33.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [],
+                "timeTaken": 5
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/34.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": []
+            }
+        ],
+        "Chemistry Section 2": [
+            "Multiple Correct",
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/35.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "D"
+                ],
+                "timeTaken": 69
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/36.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A"
+                ],
+                "timeTaken": 108
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/37.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [],
+                "timeTaken": 7
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/38.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "timeTaken": 21
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/39.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 17
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/40.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [],
+                "timeTaken": 1
+            }
+        ],
+        "Maths Section 1": [
+            "Single Correct",
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/41.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A"
+                ],
+                "timeTaken": 763
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/42.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 224
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/43.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 118
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/44.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "D"
+                ],
+                "timeTaken": 122
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/45.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 90
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/46.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A"
+                ],
+                "timeTaken": 152
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/47.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 262
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/48.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "D"
+                ],
+                "timeTaken": 143
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/49.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 364
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/50.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "A",
+                    "A"
+                ],
+                "timeTaken": 642
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/51.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B"
+                ],
+                "timeTaken": 394
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/52.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 554
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/53.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A"
+                ],
+                "timeTaken": 169
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/54.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "D"
+                ],
+                "timeTaken": 126
+            }
+        ],
+        "Maths Section 2": [
+            "Multiple Correct",
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/55.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "B",
+                    "D"
+                ],
+                "timeTaken": 232
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/56.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "timeTaken": 225
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/57.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "C"
+                ],
+                "timeTaken": 143
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/58.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "B"
+                ],
+                "timeTaken": 197
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/59.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "D"
+                ],
+                "timeTaken": 156
+            },
+            {
+                "q": "<img src=\"/JEE_Advanced_Papers/JEE-2012-P2/60.png\">",
+                "ans": "...",
+                "o1": "A",
+                "o2": "B",
+                "o3": "C",
+                "o4": "D",
+                "selectedOptions": [
+                    "A",
+                    "B"
+                ],
+                "timeTaken": 207
+            }
+        ],
+        "config": {
+            "testName": "JEE-2012-P2"
+        }
+    }
