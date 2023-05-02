@@ -345,6 +345,10 @@ header {
   display: block;
   margin-bottom: 10px;
 }
+.answers input {
+  margin: 0 10px;
+  padding: 10px;
+}
 #quiz {
   position: relative;
 }

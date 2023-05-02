@@ -1,5 +1,5 @@
 //! SET BELOW MANUALLY
-var paperCode = "JEE-2014-P1";
+var paperCode = "JEE-2014-P2";
 
 var fs = require("fs");
 var data = JSON.parse(fs.readFileSync("./data.json", "utf8"));

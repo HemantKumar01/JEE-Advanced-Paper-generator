@@ -289,34 +289,38 @@ function start(obj1, top1) {
     } else if (obj1[0] == "Matrix Match") {
       answers.push(
         `<label>
+        ${obj1[qname].o1}
           <input type="text" name="${qname}" value="${
           obj1[qname].selectedOptions[0] ? obj1[qname].selectedOptions[0] : ""
         }" placeholder="p ,q,r,s">
-          ${obj1[qname].o1}
+          
           </label>`
       );
       answers.push(
         `<label>
+        ${obj1[qname].o2}
           <input type="text" name="${qname}" value="${
           obj1[qname].selectedOptions[1] ? obj1[qname].selectedOptions[1] : ""
         }" placeholder="p,q,r,s">
-          ${obj1[qname].o2}
+          
           </label>`
       );
       answers.push(
         `<label>
+        ${obj1[qname].o3}
           <input type="text" name="${qname}" value="${
           obj1[qname].selectedOptions[2] ? obj1[qname].selectedOptions[2] : ""
         }" placeholder="p,q,r,s">
-          ${obj1[qname].o3}
+          
           </label>`
       );
       answers.push(
         `<label>
+        ${obj1[qname].o4}
           <input type="text" name="${qname}" value="${
           obj1[qname].selectedOptions[3] ? obj1[qname].selectedOptions[3] : ""
         }" placeholder="p,q,r,s">
-          ${obj1[qname].o4}
+          
           </label>`
       );
     }
