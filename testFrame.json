@@ -1,4 +1,72 @@
 {
+    "Allen3": {
+        "Maths": {
+            "Single Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Multiple Correct": {
+                "start": 1,
+                "end": 8
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Physics": {
+            "Single Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Multiple Correct": {
+                "start": 9,
+                "end": 26
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Chemistry": {
+            "Single Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Multiple Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        }
+    },
     "Allen2": {
         "Maths": {
             "Single Correct": {
@@ -608,6 +676,236 @@
             "Matrix Match": {
                 "start": 57,
                 "end": 60
+            }
+        }
+    },
+    "JEE-2015-P1": {
+        "Physics": {
+            "Single Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Multiple Correct": {
+                "start": 9,
+                "end": 18
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 1,
+                "end": 8
+            },
+            "Matrix Match": {
+                "start": 19,
+                "end": 20
+            }
+        },
+        "Chemistry": {
+            "Single Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Multiple Correct": {
+                "start": 29,
+                "end": 38
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 21,
+                "end": 28
+            },
+            "Matrix Match": {
+                "start": 39,
+                "end": 40
+            }
+        },
+        "Maths": {
+            "Single Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Multiple Correct": {
+                "start": 49,
+                "end": 58
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 41,
+                "end": 48
+            },
+            "Matrix Match": {
+                "start": 59,
+                "end": 60
+            }
+        }
+    },
+    "JEE-2015-P2": {
+        "Physics": {
+            "Single Correct": {
+                "start": 17,
+                "end": 20
+            },
+            "Multiple Correct": {
+                "start": 9,
+                "end": 16
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 1,
+                "end": 8
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Chemistry": {
+            "Single Correct": {
+                "start": 37,
+                "end": 40
+            },
+            "Multiple Correct": {
+                "start": 29,
+                "end": 36
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 21,
+                "end": 28
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Maths": {
+            "Single Correct": {
+                "start": 57,
+                "end": 60
+            },
+            "Multiple Correct": {
+                "start": 49,
+                "end": 56
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 41,
+                "end": 48
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        }
+    },
+    "JEE-2016-P1": {
+        "Physics": {
+            "Single Correct": {
+                "start": 1,
+                "end": 5
+            },
+            "Multiple Correct": {
+                "start": 6,
+                "end": 13
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 14,
+                "end": 18
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Chemistry": {
+            "Single Correct": {
+                "start": 19,
+                "end": 23
+            },
+            "Multiple Correct": {
+                "start": 24,
+                "end": 31
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 32,
+                "end": 36
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Maths": {
+            "Single Correct": {
+                "start": 37,
+                "end": 41
+            },
+            "Multiple Correct": {
+                "start": 42,
+                "end": 49
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 50,
+                "end": 54
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        }
+    },
+    "JEE-2016-P2": {
+        "isVersion2": true,
+        "TotalQuestions": 54,
+        "subjectOrder": [
+            "Physics",
+            "Chemistry",
+            "Maths"
+        ],
+        "sections": {
+            "Section 1": {
+                "type": "Single Correct",
+                "numQues": 6,
+                "markingScheme": "+3 : -1"
+            },
+            "Section 2": {
+                "type": "Multiple Correct",
+                "numQues": 8,
+                "markingScheme": "+4/+1 : -1"
+            },
+            "Section 3": {
+                "type": "Single Correct",
+                "numQues": 4,
+                "markingScheme": "+3 : -0"
             }
         }
     }

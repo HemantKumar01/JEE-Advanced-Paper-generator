@@ -1,5 +1,6 @@
-//! SET BELOW MANUALLY
-var paperCode = "JEE-2014-P2";
+//! SET BELOW MANUALLY-----------
+var paperCode = "JEE-2016-P2";
+//!-----------------------------
 
 var fs = require("fs");
 var data = JSON.parse(fs.readFileSync("./data.json", "utf8"));

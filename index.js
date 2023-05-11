@@ -66,34 +66,89 @@ io.on("connection", (socket) => {
         console.log(err);
       }
     });
+    fs.writeFile(
+      `./DQ_Files/${paperNo}.json`,
+      JSON.stringify(testSubmitData),
+      function (err) {
+        if (err) {
+          console.log(err);
+        }
+      }
+    );
   });
 });
 
 function createPaper() {
   var qno = 0;
-  for (var subject of Object.keys(testFrame)) {
-    var section = 0;
-    for (var subTopic of Object.keys(testFrame[subject])) {
-      if (testFrame[subject][subTopic].start != 0) {
-        section++;
-        if (isDq) {
-          test[`${subject} Section ${section}`] =
-            data["dq"][`${subject} Section ${section}`];
-        } else {
-          for (
-            qno = testFrame[subject][subTopic].start;
-            qno <= testFrame[subject][subTopic].end;
-            qno++
-          ) {
-            if (!test[`${subject} Section ${section}`]) {
-              test[`${subject} Section ${section}`] = [subTopic]; //1st index is the subtopic of section (type of section)
-            }
-            test[`${subject} Section ${section}`].push(data[paperNo][qno]);
-          }
+  if (testFrame.isVersion2) {
+    if (isDq) {
+      test = data["dq"];
+    } else {
+      var numQues = testFrame.TotalQuestions;
+      var numQuesEachSubject = numQues / 3;
+
+      for (var section of Object.keys(testFrame.sections)) {
+        test[`${testFrame.subjectOrder[0]} ${section}`] = [
+          testFrame.sections[section].type,
+        ];
+
+        for (var i = 0; i < testFrame.sections[section].numQues; i++) {
+          qno++;
+          test[`${testFrame.subjectOrder[0]} ${section}`].push(
+            data[paperNo][qno]
+          );
         }
-      } else {
-        //formatting for displaying on console
-        delete testFrame[subject][subTopic];
+      }
+      for (var section of Object.keys(testFrame.sections)) {
+        test[`${testFrame.subjectOrder[1]} ${section}`] = [
+          testFrame.sections[section].type,
+        ];
+
+        for (var i = 0; i < testFrame.sections[section].numQues; i++) {
+          qno++;
+          test[`${testFrame.subjectOrder[1]} ${section}`].push(
+            data[paperNo][qno]
+          );
+        }
+      }
+      for (var section of Object.keys(testFrame.sections)) {
+        test[`${testFrame.subjectOrder[2]} ${section}`] = [
+          testFrame.sections[section].type,
+        ];
+
+        for (var i = 0; i < testFrame.sections[section].numQues; i++) {
+          qno++;
+          test[`${testFrame.subjectOrder[2]} ${section}`].push(
+            data[paperNo][qno]
+          );
+        }
+      }
+    }
+  } else {
+    for (var subject of Object.keys(testFrame)) {
+      var section = 0;
+      for (var subTopic of Object.keys(testFrame[subject])) {
+        if (testFrame[subject][subTopic].start != 0) {
+          section++;
+          if (isDq) {
+            test[`${subject} Section ${section}`] =
+              data["dq"][`${subject} Section ${section}`];
+          } else {
+            for (
+              qno = testFrame[subject][subTopic].start;
+              qno <= testFrame[subject][subTopic].end;
+              qno++
+            ) {
+              if (!test[`${subject} Section ${section}`]) {
+                test[`${subject} Section ${section}`] = [subTopic]; //1st index is the subtopic of section (type of section)
+              }
+              test[`${subject} Section ${section}`].push(data[paperNo][qno]);
+            }
+          }
+        } else {
+          //formatting for displaying on console
+          delete testFrame[subject][subTopic];
+        }
       }
     }
   }
