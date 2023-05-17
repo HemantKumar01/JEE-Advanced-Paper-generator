@@ -1,5 +1,6 @@
 //! SET BELOW MANUALLY-----------
-var paperCode = "JEE-2016-P2";
+const prompt = require("prompt-sync")({ sigint: true });
+const paperCode = prompt("Paper Code(JEE-<year>-<P1|P2>) :");
 //!-----------------------------
 
 var fs = require("fs");
@@ -30,5 +31,35 @@ function fillData() {
     }
   });
   console.log(`Data saved successfully. Saved ${numQues} questions`);
+
+  var testFrameTemplate = {
+    isVersion2: true,
+    TotalQuestions: numQues,
+    subjectOrder: ["Physics", "Chemistry", "Maths"],
+    sections: {
+      "Section 1": {
+        type: "Single Correct",
+        numQues: 6,
+        markingScheme: "+3 : -1",
+      },
+      "Section 2": {
+        type: "Multiple Correct",
+        numQues: 8,
+        markingScheme: "+4/+1 : -1",
+      },
+      "Section 3": {
+        type: "Numerical",
+        numQues: 4,
+        markingScheme: "+3 : -0",
+      },
+    },
+  };
+  var testFrame = JSON.parse(fs.readFileSync("./testFrame.json", "utf8"));
+  testFrame[paperCode] = testFrameTemplate;
+  fs.writeFile("./testFrame.json", JSON.stringify(testFrame), function (err) {
+    if (err) {
+      console.log(err);
+    }
+  });
   console.log("Please edit testFrame.json accordingly");
 }

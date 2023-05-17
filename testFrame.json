@@ -908,5 +908,57 @@
                 "markingScheme": "+3 : -0"
             }
         }
+    },
+    "JEE-2017-P1": {
+        "isVersion2": true,
+        "TotalQuestions": 54,
+        "subjectOrder": [
+            "Physics",
+            "Chemistry",
+            "Maths"
+        ],
+        "sections": {
+            "Section 1": {
+                "type": "Multiple Correct",
+                "numQues": 7,
+                "markingScheme": "+4/+1 : -2"
+            },
+            "Section 2": {
+                "type": "Integer",
+                "numQues": 5,
+                "markingScheme": "+3, -0"
+            },
+            "Section 3": {
+                "type": "Single Correct",
+                "numQues": 6,
+                "markingScheme": "+3 : -1"
+            }
+        }
+    },
+    "JEE-2017-P2": {
+        "isVersion2": true,
+        "TotalQuestions": 54,
+        "subjectOrder": [
+            "Physics",
+            "Chemistry",
+            "Maths"
+        ],
+        "sections": {
+            "Section 1": {
+                "type": "Single Correct",
+                "numQues": 7,
+                "markingScheme": "+3 : -1"
+            },
+            "Section 2": {
+                "type": "Multiple Correct",
+                "numQues": 7,
+                "markingScheme": "+4/+1 : -1"
+            },
+            "Section 3": {
+                "type": "Single Correct",
+                "numQues": 4,
+                "markingScheme": "+3 : -0"
+            }
+        }
     }
 }

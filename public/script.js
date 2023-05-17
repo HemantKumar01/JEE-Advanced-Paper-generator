@@ -441,6 +441,7 @@ function start(obj1, top1) {
         }
       }
     }
+    socket.emit("sync", JSON.stringify(data));
     showSlide(currSlide + 1, true, isAnswerGiven);
   }
 

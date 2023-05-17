@@ -53,10 +53,26 @@ const serverInstance = app.listen(port, () => {
 const io = new socket.Server(serverInstance);
 
 io.on("connection", (socket) => {
+  socket.on("sync", (syncData) => {
+    syncData = {
+      config: {
+        isDq: false,
+      },
+      topics: JSON.parse(syncData),
+    };
+
+    fs.writeFile(
+      `./tmpSyncData.json`,
+      JSON.stringify(syncData),
+      function (err) {
+        if (err) {
+          console.log("ERROR WHILE SYNCING", err);
+        }
+      }
+    );
+  });
   socket.on("result", (testSubmitData) => {
     testSubmitData = JSON.parse(testSubmitData);
-
-    console.log("Test submitted successfully. Saved for DQ");
 
     data = JSON.parse(fs.readFileSync("./data.json", "utf8"));
     testSubmitData.config = { testName: paperNo };
@@ -75,10 +91,27 @@ io.on("connection", (socket) => {
         }
       }
     );
+    fs.unlinkSync("./tmpSyncData.json");
+    console.log("Test submitted successfully. Saved for DQ");
   });
 });
 
 function createPaper() {
+  if (fs.existsSync("./tmpSyncData.json")) {
+    //if backup exist that means last test doesn't save properly, so just resume that
+    fs.writeFile(
+      "./public/testData.json",
+      JSON.stringify(testData),
+      function (err) {
+        if (err) {
+          console.log(err);
+        }
+      }
+    );
+    return;
+  }
+
+  //Create Paper function if backup doesnt exist
   var qno = 0;
   if (testFrame.isVersion2) {
     if (isDq) {
