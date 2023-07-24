@@ -1,4 +1,72 @@
 {
+    "HardQues": {
+        "Maths": {
+            "Single Correct": {
+                "start": 4,
+                "end": 6
+            },
+            "Multiple Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Numeric": {
+                "start": 1,
+                "end": 3
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Physics": {
+            "Single Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Multiple Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Numeric": {
+                "start": 7,
+                "end": 16
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        },
+        "Chemistry": {
+            "Single Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Multiple Correct": {
+                "start": 0,
+                "end": 0
+            },
+            "Numeric": {
+                "start": 0,
+                "end": 0
+            },
+            "Integer": {
+                "start": 0,
+                "end": 0
+            },
+            "Matrix Match": {
+                "start": 0,
+                "end": 0
+            }
+        }
+    },
     "Allen3": {
         "Maths": {
             "Single Correct": {
@@ -952,12 +1020,38 @@
             "Section 2": {
                 "type": "Multiple Correct",
                 "numQues": 7,
-                "markingScheme": "+4/+1 : -1"
+                "markingScheme": "+4/+1 : -2"
             },
             "Section 3": {
                 "type": "Single Correct",
                 "numQues": 4,
                 "markingScheme": "+3 : -0"
+            }
+        }
+    },
+    "JEE-2022-P1": {
+        "isVersion2": true,
+        "TotalQuestions": 54,
+        "subjectOrder": [
+            "Maths",
+            "Physics",
+            "Chemistry"
+        ],
+        "sections": {
+            "Section 1": {
+                "type": "Numeric",
+                "numQues": 8,
+                "markingScheme": "+3 : -0"
+            },
+            "Section 2": {
+                "type": "Multiple Correct",
+                "numQues": 6,
+                "markingScheme": "+4/+1 : -1"
+            },
+            "Section 3": {
+                "type": "Single Correct",
+                "numQues": 4,
+                "markingScheme": "+3 : -1"
             }
         }
     }

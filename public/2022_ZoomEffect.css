@@ -1,0 +1,6 @@
+.slide.active-slide {
+  transform: scale(3) translate(30%, 35%);
+}
+.answers {
+  transform: translateX(100px);
+}
