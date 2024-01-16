@@ -1054,5 +1054,26 @@
                 "markingScheme": "+3 : -1"
             }
         }
+    },
+    "allen": {
+        "isVersion2": true,
+        "TotalQuestions": 90,
+        "subjectOrder": [
+            "Physics",
+            "Chemistry",
+            "Maths"
+        ],
+        "sections": {
+            "Section 1": {
+                "type": "Single Correct",
+                "numQues": 20,
+                "markingScheme": "+4 : -1"
+            },
+            "Section 2": {
+                "type": "Integer",
+                "numQues": 10,
+                "markingScheme": "+4 : -1"
+            }
+        }
     }
 }

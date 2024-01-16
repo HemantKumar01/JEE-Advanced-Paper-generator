@@ -115,7 +115,7 @@ header {
 }
 #question_area_scrollable {
   position: relative;
-  background-image: url("download.png");
+  /* background-image: url("download.png"); */
   overflow: auto;
   height: calc(100vh - 264px);
 }
