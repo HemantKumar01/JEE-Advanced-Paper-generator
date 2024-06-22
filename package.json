@@ -75,7 +75,7 @@
     "unpipe": "^1.0.0",
     "utils-merge": "^1.0.1",
     "vary": "^1.1.2",
-    "ws": "^8.11.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {},
   "scripts": {
